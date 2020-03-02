@@ -1,7 +1,5 @@
 # HACCOON - Haken Central Control Online
 
-![Color Gradient](/gradient.png)
-
 HACCOON is a project developed by the members of the Haken who are attending the discipline of Integrator Project and Software Engineering at Universidade technological Federal do Paraná, campus of Campo Mourão (UTFPR-CM).
 
 ## Summary
